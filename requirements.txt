@@ -1,0 +1,28 @@
+# Core data & scientific libraries
+pandas
+numpy
+scipy
+
+# Optimization & routing
+ortools          # Google OR-Tools for VRP/route optimization
+pulp             # Linear programming solver (alternative)
+networkx         # Graph-based route/network analysis
+
+# Geospatial & mapping
+geopy            # Distance calculations (Haversine, geodesic)
+folium           # Interactive route maps
+matplotlib
+seaborn
+
+# Sustainability metrics
+openpyxl         # Exporting reports to Excel
+tabulate         # Pretty table outputs
+
+# Notebooks & experiments
+jupyter
+notebook
+tqdm             # Progress bars
+
+# Optional - interactive dashboards (if you plan to present results)
+streamlit
+plotly
