@@ -1,0 +1,5 @@
+from_id,to_id,distance_km,time_min
+D0,C1,10.5,25
+D0,C2,15.2,40
+C1,C2,5.3,12
+C2,C3,7.8,18
