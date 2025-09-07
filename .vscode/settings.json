@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./fmcg-route-optimization/src"
+    ]
+}
